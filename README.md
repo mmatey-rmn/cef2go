@@ -1,3 +1,9 @@
+This is a modified, Linux only branch of CEF2Go
+
+
+
+
+
 CEF2go - HTML 5 based GUI toolkit for the Go language
 =====================================================
 
